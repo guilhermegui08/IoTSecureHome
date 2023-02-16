@@ -1,0 +1,7 @@
+23; monoxido detetato
+09/06/2022 21:34:05; Não Detetado
+09/06/2022 21:34:12; Detetado
+11/06/2022 09:55:29; Não Detetado
+11/06/2022 10:04:23; Não Detetado
+11/06/2022 10:04:28; Detetado
+11/06/2022 10:04:40; Não Detetado

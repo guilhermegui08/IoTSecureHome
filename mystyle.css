@@ -1,0 +1,14 @@
+form.login {
+    width: 350px;
+    padding: 15px;
+    position: absolute;
+    left: 10%;
+    top: 1%;
+    background: rgba(255, 255, 255, .75);
+    border-radius: 5%;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
