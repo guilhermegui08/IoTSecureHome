@@ -1,26 +1,32 @@
-# Serviço de Segurança Inteligente
-Protótipo de uma solução de Internet of Things (IoT)
+### Prototype of an Internet of Things (IoT) solution
 
---Python 3.8.9
+  - Python 3.8.9
 
---PHP
+  - PHP
 
---Packet Tracer
+  - Packet Tracer
 
-###OBJETIVO
+## OBJECTIVE
 
-O protótipo a desenvolver deverá utilizar um cenário real ou virtual, através da utilização do software Cisco Packet Tracer (CPT), com a utilização de sensores, atuadores e controladores com capacidade de comunicação, de modo a interagir em tempo real com um servidor web, disponibilizando assim a informação Anytime & Anywhere.
+The prototype to be developed should use a real or virtual scenario, through the utilization of Cisco Packet Tracer (CPT) software, with the use of sensors, actuators, and controllers capable of communication, in order to interact in real-time with a web server, thus providing Anytime & Anywhere information.
 
-###FUNCIONALIDADES
+## FUNCTIONALITIES
 
-Capacidade de atuação;
+  - Actuation capability;
+  
+  - Sensing capability;
 
-Capacidade de sensing;
+  - Transmission and real-time availability of information;
 
-Capacidade de transmissão e disponibilização da informação em tempo real;
+  - Anytime & Anywhere information availability;
 
-Disponibilização da informação Anytime & Anywhere;
+  - Definition and sending of events by software and hardware.
 
-Capacidade de definição e envio de eventos por software e hardware;
+
+
+
+
+
+
 
 
