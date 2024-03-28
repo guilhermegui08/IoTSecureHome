@@ -1,4 +1,4 @@
-### Prototype of an Internet of Things (IoT) solution
+# Prototype of an Internet of Things (IoT) solution
 
   - Python 3.8.9
 
