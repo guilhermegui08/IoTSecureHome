@@ -1,4 +1,4 @@
-# Projeto_tecnologias_informacao
+# Serviço de Segurança Inteligente
 Protótipo de uma solução de Internet of Things (IoT)
 
 --Python 3.8.9
