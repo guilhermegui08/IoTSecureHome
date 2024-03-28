@@ -22,6 +22,8 @@ The prototype to be developed should use a real or virtual scenario, through the
 
   - Definition and sending of events by software and hardware.
 
+## Prototype
+![securehome](https://github.com/guilhermegui08/IoTSecureHome/assets/112128696/1a3a77f6-38b2-49e1-9b5b-8af573ee8796)
 
 
 
